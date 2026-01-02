@@ -1,0 +1,6 @@
+zebra
+anomia
+apple
+banana
+cat
+dog
